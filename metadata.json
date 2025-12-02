@@ -1,0 +1,5 @@
+{
+  "name": "ForwardTest Pro",
+  "description": "A high-performance trading journal and analytics engine for calculating statistical edges, MFE/MAE analysis, and strategy optimization.",
+  "requestFramePermissions": []
+}
